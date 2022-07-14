@@ -1,3 +1,7 @@
+发现了更合适的登陆网关的软件，非常推荐使用下述项目：
+https://github.com/neucn/ipgw
+
+
 如果不好使，可以考虑把改后的eone.py替换到原作者的文件里去
 使用前请下载python以及eone中的第三方库
 
